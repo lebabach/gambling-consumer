@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "microservices.gambling.consumer",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "gamblingconsumer",
+    "packageName": "microservices.gambling.consumer",
+    "packageFolder": "microservices/gambling/consumer",
+    "serverPort": "8082",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjVjMWY5YzMzZDlmN2M1ZWI1Nzk4MDdjNTFiM2RhM2ZhZmIzNjI3OTRjZTEyNmRhNWZkMWRlZTkwMGQ3MWFjZTZiNWU0MDMxMTRlYzE5ZWMxYmM4N2YyOTFlM2M3OTQ3YjZkY2U1ZDdiYzRmYWRlOTc2YmI0NTA4ZTcyYjg4ZTM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1580209070195,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "ja"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
